@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/AnwaDeveloper/whatsapp-bot/master/media/img/Anwa.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/AnwaDeveloper/whatsapp-bot/main/media/img/Anwa.jpg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
